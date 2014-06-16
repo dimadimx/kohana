@@ -2,822 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46079750-a53a-4929-9126-990b28dd1839" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/1.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/100001.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/100002.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/100008.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/100010.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/100013.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/100016.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/100017.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/100018.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/100022.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/100023.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/100024.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/100026.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/100029.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/100030.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/100031.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/100032.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/100036.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/100038.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/100045.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/100046.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/100048.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/100049.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/100051.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/100053.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/100054.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/100055.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/100059.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/100060.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/100066.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/100067.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/100069.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/100072.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/1009.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/101.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/1018.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/102.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/103.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/104.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/105.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/106.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/1078.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/108.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/109.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/1093.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/1179.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/1275.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/1276.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/1356.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/1391.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/1417.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/1422.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/1433.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/1558.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/1671.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/2.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/200000.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/201.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/202.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/203.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/205.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/206.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/207.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/208.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/211.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/213.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/214.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/215.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/216.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/218.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/219.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/220.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/221.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/222.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/223.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/224.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/226.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/227.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/229.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/230.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/231.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/232.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/234060_favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/235.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/276.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/280.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/284.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/288.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/289.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/291.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/292.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/294.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/298.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/3.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/300003.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/300006.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/300007.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/300010.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/300012.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/300014.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/300015.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/300018.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/300019.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/300020.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/300023.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/300025.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/300027.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/300028.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/300035.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/300037.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/300044.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/300047.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/300050.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/300054.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/300056.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/300076.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/300082.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/300086.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/300091.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/300095.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/300096.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/300101.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/300102.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/300104.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/300105.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/300108.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/300109.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/300110.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/300116.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/300118.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/300124.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/300125.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/324.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/325.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/326.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/329.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/330.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/369.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/4.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/400001.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/432.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/447.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/448.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/454.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/455.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/5.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/503.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/504.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/528.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/529.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/530.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/553.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/556.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/557.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/558.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/568.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/584.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/585.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/586.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/595.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/620.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/636.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/662.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/663.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/666.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/672.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/676.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/683.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/689.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/727.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/790.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/927.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/955.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/958.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/channels/996.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/Chrome.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/ui/Thumbs.db" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/UA.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/ZeroClipboard.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/clipart/_0_moon.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/weather/_0_moon.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/clipart/_0_sun.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/weather/_0_sun.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/clipart/_10_heavy_snow.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/weather/_10_heavy_snow.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/clipart/_1_moon_cl.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/weather/_1_moon_cl.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/clipart/_1_sun_cl.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/weather/_1_sun_cl.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/clipart/_255_NA.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/weather/_255_NA.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/clipart/_2_cloudy.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/weather/_2_cloudy.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/clipart/_3_pasmurno.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/weather/_3_pasmurno.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/clipart/_4_short_rain.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/weather/_4_short_rain.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/clipart/_5_rain.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/weather/_5_rain.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/clipart/_6_lightning.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/weather/_6_lightning.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/clipart/_7_hail.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/weather/_7_hail.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/clipart/_8_rain_swon.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/weather/_8_rain_swon.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/clipart/_9_snow.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/weather/_9_snow.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/afghanistan_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/albania_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/algeria_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/tinymce/skins/lightgray/img/anchor.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/andorra_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/angola_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/ui/animated-overlay.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/anons_cover.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/antigua_and_barbuda_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/aquarius.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/horoskope/aquarius.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/argentina_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/aries.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/horoskope/aries.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/armenia_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/arrow-next-hover.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/arrow-next.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/arrow-prev-hover.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/arrow-prev.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/arrow.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/arrow_left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/arrow_next.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/arrow_right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/arrow_upload.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/australia_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/austria_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/avatar.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/azerbaijan_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/bahamas_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/bahrain_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/bangladesh_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/banner_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/banner_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/banner_3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/banner_4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/barbados_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/belarus_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/belgium_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/belize_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/benin_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/ui/bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/bg_404.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/bg_admin_btn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/bg_anons_new.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/bg_captcha.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/bg_continued.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/bg_current.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/bg_enter.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/bg_enter_bar.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/bg_finish_profile_upload.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/bg_hint.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/bg_horo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/bg_middle_profile_upload.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/bg_movie.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/bg_movie_desc.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/bg_percent.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/bg_profile_place.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/bg_progress.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/ui/bg_progress.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/bg_regis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/bg_set_password.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/bg_span.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/bg_start_profile_upload.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/bg_top_block.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/bg_top_block.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/bg_translation.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/bg_upload.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/bg_upload_a.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/bg_weather_city.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/bhutan_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/big_foto.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/bolivia_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/bosnia_and_herzegovina_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/botswana_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/brazil_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/browsers.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/brunei_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/btn_copy_url.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/btn_download_file.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/bulgaria_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/burkina_faso_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/burma_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/burundi_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/cambodia_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/cameroon_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/canada_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/cancer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/horoskope/cancer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/cape_verde_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/capricorn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/horoskope/capricorn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/captcha.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/central_african_republic_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/chad_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/chile_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/china_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/close_upload.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/colombia_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/comoros_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/congo_brazzaville_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/congo_kinshasa_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/costa_rica_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/cote_d_Ivoire_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/croatia_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/cuba_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/cyprus_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/czech_republic_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/delete_avatar.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/denmark_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/dissp_logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/djibouti_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/dominica_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/dominican_republic_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/dot_horo_down.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/dot_horo_up.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/dot_white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/east_timor_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/ecuador_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/egypt_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/el_salvador_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/england_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/equatorial_guinea_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/eritrea_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/estonia_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/ethiopia_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/european_union_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/facebook.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/fancybox_loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/fancybox_overlay.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/fancybox_sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/faroe_islands_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/fiji_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/ui/fill.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/ui/fill_green.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/finance_big_news.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/finance_big_news_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/finance_big_news_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/finance_small_news_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/finance_small_news_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/finance_small_news_3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/finance_small_news_4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/finance_small_news_5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/finland_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/fish.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/foto_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/foto_10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/foto_11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/foto_12.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/foto_13.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/foto_14.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/foto_15.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/foto_16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/foto_17.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/foto_18.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/foto_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/foto_3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/foto_4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/foto_5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/foto_6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/foto_7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/foto_8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/foto_9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/fotocover_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/fotocover_10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/fotocover_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/fotocover_3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/fotocover_4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/fotocover_5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/fotocover_6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/fotocover_7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/fotocover_8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/fotocover_9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/france_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/gabon_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/galleria_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/galleria_thumb_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/galleria_thumb_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/galleria_thumb_3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/galleria_thumb_4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/galleria_thumb_5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/galleria_thumb_6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/galleria_thumb_7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/galleria_thumb_8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/gambia_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/gemini.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/horoskope/gemini.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/georgia_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/germany_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/ghana_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/google-plus-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/grad.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/greece_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/grenada_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/guatemala_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/guinea_bissau_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/guinea_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/guyana_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/haiti_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/honduras_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/hong_kong_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/hungary_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/iceland_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/tinymce/skins/lightgray/fonts/icomoon-small.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/tinymce/skins/lightgray/fonts/icomoon-small.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/tinymce/skins/lightgray/fonts/icomoon-small.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/tinymce/skins/lightgray/fonts/icomoon.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/tinymce/skins/lightgray/fonts/icomoon.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/tinymce/skins/lightgray/fonts/icomoon.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/icon_big_weather.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/icon_current_movie.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/icon_current_news.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/icon_current_tv.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/icon_current_weather.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/icon_delete_uploaded_file.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/icon_dict.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/icon_finance.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/icon_guide.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/icon_left_menu.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/icon_lock.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/icon_mail.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/icon_mail_gray.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/icon_map.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/icon_movie.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/icon_news.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/icon_set_password.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/icon_sport.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/icon_storage.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/icon_sun.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/icon_weather.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/icon_weather_time.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/icon_zodiac.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/india_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/indonesia_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/input_file_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/input_file_3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/iran_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/iraq_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/ireland_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/isle_of_man_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/israel_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/italy_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/jamaica_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/japan_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/jordan_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/kazakhstan_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/kenya_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/kiribati_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/korea_north_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/korea_south_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/kosovo_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/kozerog.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/kuwait_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/kyrgyzstan_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/laos_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/last_big_pic_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/last_little_pic_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/latvia_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/lebanon_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/leo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/horoskope/leo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/lesotho_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/level.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/liberia_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/libra.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/horoskope/libra.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/libya_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/liechtenstein_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/lithuania_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/tinymce/skins/lightgray/img/loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/logo_tv_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/logo_tv_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/logo_tv_3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/logo_tv_4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/logo_tv_5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/logo_tv_6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/luxembourg_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/macau_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/macedonia_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/madagascar_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/malawi_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/malaysia_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/maldives_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/mali_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/malta_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/marshall_islands_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/mask_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/mask_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/mauritania_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/mauritius_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/mexico_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/micronesia_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/moldova_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/monaco_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/mongolia_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/montenegro_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/morocco_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/movie_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/movie_10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/movie_1_anons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/movie_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/movie_2_anons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/movie_3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/movie_3_anons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/movie_4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/movie_5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/movie_6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/movie_7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/movie_8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/movie_9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/movie_icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/tinymce/plugins/media/moxieplayer.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/mozambique_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/namibia_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/nauru_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/nav_arrow.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/nepal_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/netherlands_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/new_zealand_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/news_photo_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/nicaragua_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/niger_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/nigeria_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/norway_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/notepad.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/tinymce/skins/lightgray/img/object.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/oman_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/os.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/oven.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/p_fb.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/p_footer_logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/p_li_dot.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/p_logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/p_mailru.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/p_ok.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/p_pic_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/p_pic_10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/p_pic_11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/p_pic_12.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/p_pic_13.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/p_pic_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/p_pic_3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/p_pic_4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/p_pic_5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/p_pic_6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/p_pic_7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/p_pic_8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/p_pic_9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/p_twitter.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/p_vk.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/p_yandex.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/pakistan_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/palau_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/panama_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/panel-icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/papua_new_guinea_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/paraguay_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/peru_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/philippines_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/photo_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/photo_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/pisces.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/horoskope/pisces.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/poland_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/popular_big_pic_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/popular_big_pic_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/popular_little_pic_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/popular_little_pic_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/portugal_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/preloader.GIF" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/puerto_rico_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/qatar_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/republic_of_china_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/resizer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/romania_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/russia_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/rwanda_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/sagittarius.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/horoskope/sagittarius.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/saint_kitts_and_nevis_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/saint_lucia_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/saint_vincent_and_the_grenadines_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/samoa_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/san_marino_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/sao_tome_and_principe_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/saudi_arabia_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/scorpio.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/horoskope/scorpio.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/scotland_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/screen_translate.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/select_dot.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/select_dot_regis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/senegal_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/serbia_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/seychelles_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/shooter.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/sierra_leone_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/singapore_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/ui/slider-bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/ui/slider-bg_green.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/ui/slider-button.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/ui/slider-button_green.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/slovakia_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/slovenia_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/small_photo_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/small_photo_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/small_photo_3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/tinymce/plugins/emoticons/img/smiley-cool.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/tinymce/plugins/emoticons/img/smiley-cry.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/tinymce/plugins/emoticons/img/smiley-embarassed.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/tinymce/plugins/emoticons/img/smiley-foot-in-mouth.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/tinymce/plugins/emoticons/img/smiley-frown.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/tinymce/plugins/emoticons/img/smiley-innocent.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/tinymce/plugins/emoticons/img/smiley-kiss.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/tinymce/plugins/emoticons/img/smiley-laughing.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/tinymce/plugins/emoticons/img/smiley-money-mouth.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/tinymce/plugins/emoticons/img/smiley-sealed.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/tinymce/plugins/emoticons/img/smiley-smile.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/tinymce/plugins/emoticons/img/smiley-surprised.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/tinymce/plugins/emoticons/img/smiley-tongue-out.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/tinymce/plugins/emoticons/img/smiley-undecided.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/tinymce/plugins/emoticons/img/smiley-wink.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/tinymce/plugins/emoticons/img/smiley-yell.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/solomon_islands_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/somalia_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/south_africa_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/spain_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/sport_big_pic.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/sport_big_pic_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/sport_big_pic_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/sport_little_pic_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/sport_little_pic_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/sport_little_pic_3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/sport_little_pic_4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/sri_lanka_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/statusedit.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/statusv_op.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/statusx_op.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/sudan_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/suriname_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/swap-button.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/swaziland_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/sweden_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/switzerland_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/syria_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/tab_big_news_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/tab_list_news_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/tab_list_news_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/tab_list_news_3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/tajikistan_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/tanzania_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/taurus.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/horoskope/taurus.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/telec.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/telec_big.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/text_404.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/thailand_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/togo_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/tonga_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/tinymce/skins/lightgray/img/trans.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/trinidad_and_tobago_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/tunisia_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/turkey_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/turkmenistan_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/tuvalu_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/twins.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/uganda_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/ui-background_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/ui/ui-bg_flat_0_aaaaaa_40x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/ui/ui-bg_flat_75_ffffff_40x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/ui/ui-bg_glass_55_fbf9ee_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/ui/ui-bg_glass_65_ffffff_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/ui/ui-bg_glass_75_dadada_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/ui/ui-bg_glass_75_e6e6e6_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/ui/ui-bg_glass_95_fef1ec_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/ui/ui-bg_highlight-soft_75_cccccc_1x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/ui/ui-icons_222222_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/ui/ui-icons_2e83ff_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/ui/ui-icons_454545_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/ui/ui-icons_888888_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/ui/ui-icons_cd0a0a_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/ukraine_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/united_arab_emirates_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/united_kingdom_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/united_states_of_america_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/uruguay_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/ussr_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/uzbekistan_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/vanuatu_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/vatican_city_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/venezuela_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/vesy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/video_circle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/video_circle_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/vietnam_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/virgin.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/virgo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/horoskope/virgo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/vk-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/vodoley.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/wales_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/weather_dot.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/weather_dot_big.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/webmail.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/win7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/tinymce/skins/lightgray/img/wline.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/yemen_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/zambia_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/flags/zimbabwe_preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/img/zodiac.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/ZeroClipboard.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/captcha.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/tinymce/skins/lightgray/content.inline.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/tinymce/skins/lightgray/content.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/dic_tables_edit.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/tinymce/plugins/compat3x/editable_selects.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/fancybox.init.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/flexslider.init.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/tinymce/plugins/compat3x/form_utils.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/formstyler.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/tinymce/skins/lightgray/fonts/icomoon-small.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/tinymce/skins/lightgray/fonts/icomoon.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/jquery-1.9.1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/css/jquery-ui-1.10.2.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/css/jquery.fancybox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/jquery.fancybox.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/uploader/jquery.fileupload-fp.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/uploader/jquery.fileupload-jui.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/uploader/jquery.fileupload-ui.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/uploader/jquery.fileupload.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/jquery.flexslider.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/uploader/jquery.iframe-transport.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/uploader/cors/jquery.postmessage-transport.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/uploader/vendor/jquery.ui.widget.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/uploader/cors/jquery.xdr-transport.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/tinymce/license.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/uploader/load-image.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/uploader/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/map_init.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/tinymce/plugins/compat3x/mctabs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/media_fancybox.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/css/news_table.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/p_common_template.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/tinymce/plugins/advlist/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/tinymce/plugins/anchor/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/tinymce/plugins/autolink/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/tinymce/plugins/autoresize/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/tinymce/plugins/autosave/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/tinymce/plugins/bbcode/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/tinymce/plugins/charmap/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/tinymce/plugins/code/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/tinymce/plugins/contextmenu/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/tinymce/plugins/directionality/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/tinymce/plugins/emoticons/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/tinymce/plugins/example/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/tinymce/plugins/example_dependency/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/tinymce/plugins/fullpage/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/tinymce/plugins/fullscreen/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/tinymce/plugins/hr/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/tinymce/plugins/image/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/tinymce/plugins/insertdatetime/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/tinymce/plugins/layer/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/tinymce/plugins/legacyoutput/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/tinymce/plugins/link/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/tinymce/plugins/lists/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/tinymce/plugins/media/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/tinymce/plugins/nonbreaking/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/tinymce/plugins/noneditable/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/tinymce/plugins/pagebreak/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/tinymce/plugins/paste/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/tinymce/plugins/preview/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/tinymce/plugins/print/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/tinymce/plugins/save/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/tinymce/plugins/searchreplace/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/tinymce/plugins/spellchecker/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/tinymce/plugins/tabfocus/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/tinymce/plugins/table/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/tinymce/plugins/template/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/tinymce/plugins/textcolor/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/tinymce/plugins/visualblocks/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/tinymce/plugins/visualchars/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/tinymce/plugins/wordcount/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/css/pstyle.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/tinymce/skins/lightgray/fonts/readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/css/reset.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/tinymce/langs/ru.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/seo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/tinymce/skins/lightgray/skin.ie7.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/tinymce/skins/lightgray/skin.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/slidebox.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/slides.init.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/slides.min.jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/styler.init.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/tabs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/tabs_2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/template_common.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/tinymce/themes/modern/theme.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/tinymce/plugins/compat3x/tiny_mce_popup.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/tinymce/tinymce.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/uploader/tmpl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/uploader/tmpl.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/translate.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/ui.datepicker-ru.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/uploader.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/tinymce/plugins/compat3x/validate.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/tinymce/plugins/visualblocks/css/visualblocks.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/js/weather.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/config/database.php" afterPath="$PROJECT_DIR$/application/config/database.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/basic.php" afterPath="$PROJECT_DIR$/application/views/basic.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="kohana.iws" />
@@ -841,6 +26,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file leaf-file-name="main.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/classes/Controller/main.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="59" selection-start="285" selection-end="290" vertical-scroll-proportion="-7.1923075" vertical-offset="0" max-vertical-offset="374">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/views/home.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="10" selection-start="117" selection-end="117" vertical-scroll-proportion="-1.3076923" vertical-offset="0" max-vertical-offset="136">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="registration.htm" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/Downloads/reg/reg/registration.htm">
           <provider selected="true" editor-type-id="text-editor">
@@ -859,10 +62,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="reset.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="reset.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/media/css/reset.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="13" selection-start="459" selection-end="459" vertical-scroll-proportion="0.19866444" vertical-offset="0" max-vertical-offset="765">
+            <state line="19" column="4" selection-start="618" selection-end="618" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="765">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="basic.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/application/views/basic.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="29" selection-start="241" selection-end="241" vertical-scroll-proportion="0.1450512" vertical-offset="0" max-vertical-offset="586">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Welcome.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/classes/Controller/Welcome.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="29" selection-start="242" selection-end="246" vertical-scroll-proportion="-6.5384617" vertical-offset="0" max-vertical-offset="340">
               <folding />
             </state>
           </provider>
@@ -885,6 +106,7 @@
         <option value="$PROJECT_DIR$/application/bootstrap.php" />
         <option value="$USER_HOME$/Downloads/reg/reg/registration.htm" />
         <option value="$PROJECT_DIR$/application/config/database.php" />
+        <option value="$PROJECT_DIR$/application/views/basic.php" />
       </list>
     </option>
   </component>
@@ -963,7 +185,43 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kohana" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kohana" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kohana" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kohana" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="classes" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1035,7 +293,11 @@
       <created>1402908284892</created>
       <updated>1402908284892</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add style and script">
+      <created>1402910461838</created>
+      <updated>1402910461838</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1076,7 +338,8 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="add style and script" />
+    <option name="LAST_COMMIT_MESSAGE" value="add style and script" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1092,34 +355,6 @@
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="17" column="16" selection-start="205" selection-end="205" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="969">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/basic.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="612">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/classes/Controller/main.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="21" selection-start="320" selection-end="320" vertical-scroll-proportion="-9.807693" vertical-offset="0" max-vertical-offset="374">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/home.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="612">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/classes/Controller/Welcome.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="612">
           <folding />
         </state>
       </provider>
@@ -1161,7 +396,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/media/css/reset.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="13" selection-start="459" selection-end="459" vertical-scroll-proportion="0.19866444" vertical-offset="0" max-vertical-offset="765">
+        <state line="19" column="4" selection-start="618" selection-end="618" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="765">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/classes/Controller/Welcome.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="29" selection-start="242" selection-end="246" vertical-scroll-proportion="-6.5384617" vertical-offset="0" max-vertical-offset="340">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/classes/Controller/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="59" selection-start="285" selection-end="290" vertical-scroll-proportion="-7.1923075" vertical-offset="0" max-vertical-offset="374">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="10" selection-start="117" selection-end="117" vertical-scroll-proportion="-1.3076923" vertical-offset="0" max-vertical-offset="136">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/basic.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="29" selection-start="241" selection-end="241" vertical-scroll-proportion="0.1450512" vertical-offset="0" max-vertical-offset="586">
           <folding />
         </state>
       </provider>
