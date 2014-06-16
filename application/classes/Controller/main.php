@@ -13,4 +13,4 @@ class Controller_Main extends Controller_Template {
 	}
 	
 
-} // End Welcome
+} // End Welcome test
