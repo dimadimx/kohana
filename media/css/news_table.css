@@ -1,0 +1,32 @@
+.p_news_text table	{
+	width: 100%;
+	float: left;
+	margin: 20px 0 20px 0;
+	clear:both;
+}
+.p_news_text table caption	{
+	font-size: 14px;
+	font-weight: bold;
+	line-height: 20px;
+	margin: 0 0 10px 0;
+}
+.p_news_text table tr th	{
+	background: #551a8b;
+	border: 1px solid #551a8b;
+	color: #fff;
+	font-size: 12px;
+	font-weight: bold;
+	height: 28px;
+	padding: 0 0 0 10px;
+}
+.p_news_text table tr td	{
+	background: #fff;
+	border: 1px solid #ccc;
+	color: #333;
+	font-size: 12px;
+	height: 30px;
+	padding: 0 0 0 10px;
+}
+.p_news_text table tr td:first-child	{
+	font-weight: bold;
+}
