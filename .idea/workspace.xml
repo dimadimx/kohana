@@ -37,7 +37,7 @@
       <file leaf-file-name="regist.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/application/views/regist.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="74" column="10" selection-start="5666" selection-end="5666" vertical-scroll-proportion="0.7329843" vertical-offset="838" max-vertical-offset="1411">
+            <state line="6" column="0" selection-start="281" selection-end="281" vertical-scroll-proportion="0.17801048" vertical-offset="0" max-vertical-offset="1428">
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#2;n#form#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#1;n#div#2;n#form#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -69,7 +69,7 @@
       <file leaf-file-name="basic.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/application/views/basic.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="0" selection-start="651" selection-end="651" vertical-scroll-proportion="-16.346153" vertical-offset="0" max-vertical-offset="527">
+            <state line="5" column="68" selection-start="212" selection-end="280" vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="527">
               <folding />
             </state>
           </provider>
@@ -302,7 +302,11 @@
       <created>1402914295875</created>
       <updated>1402914295875</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add style and script">
+      <created>1402914377245</created>
+      <updated>1402914377245</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -436,14 +440,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/application/views/basic.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="0" selection-start="651" selection-end="651" vertical-scroll-proportion="-16.346153" vertical-offset="0" max-vertical-offset="527">
+        <state line="5" column="68" selection-start="212" selection-end="280" vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="527">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/views/regist.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="74" column="10" selection-start="5666" selection-end="5666" vertical-scroll-proportion="0.7329843" vertical-offset="838" max-vertical-offset="1411">
+        <state line="6" column="0" selection-start="281" selection-end="281" vertical-scroll-proportion="0.17801048" vertical-offset="0" max-vertical-offset="1428">
           <folding>
             <element signature="n#style#0;n#div#0;n#div#2;n#form#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#1;n#div#2;n#form#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
